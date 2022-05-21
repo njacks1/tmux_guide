@@ -3,7 +3,7 @@
 
 ## **About**
 
-### This guide will give you the commands needed to load and run tmux within the cluster's shell. If you don't have access to the cluster, contact your manager.
+### This guide will give you the commands needed to load and run tmux within the shell.
 
 <br/>
 
